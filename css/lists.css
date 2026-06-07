@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+}
+p{
+    font-size: 48px;
+    font-family: "ubuntu";
+
+}
+ul{
+    font-family: "Pacifico", cursive; font-weight: 400; font-style: normal;
+}
+.l1 li::marker{
+    font-size: 1.1em;
+}
+.l2 li{
+    padding-left: 12px;
+}
+    @counter-style egor-style{
+    system: cyclic;
+    symbols: 🥯 🥞 🥐;
+    suffix: " "
+}
+.l3 li{
+    list-style-type: mongolian;
+}
+.l4 li{
+    list-style-type: katakana-iroha;
+}
+.l5 li{
+    list-style-type: lower-greek;
+}
+.l6 li{
+    list-style-type: gurmukhi;
+}
+.l7 li{
+    list-style-type: hebrew;
+}

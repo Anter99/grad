@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+p{
+    font-size: 30px;
+}
+table{
+    border: double 5px;
+    border-color: white;
+    width: 50%;
+}
+th, td{
+    border: solid 2px;
+    border-color: white;
+    width: 25%;
+}
+tr:hover{
+    background-image: url(https://media.tenor.com/igZCc-gVpjsAAAAj/%D0%B2%D0%B7%D1%80%D1%8B%D0%B2.gif);
+    text-transform: uppercase;
+}
+.ss{
+    border: dotted 2px;
+}

@@ -1,0 +1,107 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    font-size: 50px;
+    Color: darkblue;
+    background-color: aquamarine;
+    display: block;
+}
+span{
+    color: blueviolet;
+    border: dotted 2px red;
+    display: inline;
+}
+li{
+    background-color: lightblue;
+    display: inline-block;
+    font-size: 24px;
+    padding: 5px 10px;
+    color: cornflowerblue;
+}
+li:hover{
+    color: lightblue;
+    background-color: cornflowerblue;
+}
+ul{
+    list-style: none;
+}
+#d1{
+    background-color: lightsalmon;
+    display: block;
+    font-size: 50px;
+    color: black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 30px;
+    border-style: groove;
+    border-color: green blue;
+    border-radius: 5% 10%;
+}
+#d2{
+    background-color: yellowgreen;
+    width: 500px;
+    height: 500px;
+    color: blue;
+    border-style: ridge none;
+    margin-top: 50px;
+    border-width: 30px;
+    border-color: red lightcoral;
+
+}
+
+#d3, #d4{
+    background-color: coral;
+    font-size: 50px;
+    color: fuchsia;
+    width: 800px;
+    height: 200px;
+    margin: 50px;
+    
+}
+#d3{
+    border-style: dashed inherit;
+    border-color: darkorange darkgoldenrod;
+
+}
+#d4{
+    border-style: solid groove;
+    border-color: lime lawngreen;
+}
+#t1{
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#t2{
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#t3{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#s1{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+
+}

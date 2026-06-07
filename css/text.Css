@@ -1,0 +1,21 @@
+.fr figcaption{
+    font-family: sans-serif;
+    font-size: 80%;
+}
+.fr img{
+    font-size: 300px;
+}
+.fr{
+    float: right;
+    padding: 5px;
+    border: 1px solid #aaaaaa;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    color: red;
+}
+a:visited{
+    color: #6a60b0;
+}

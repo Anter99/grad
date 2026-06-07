@@ -1,0 +1,25 @@
+body {
+    background-color: #00afbb;
+}
+.p1{
+    color: aqua;
+    background-color: blue;
+}
+.p2{
+    color:darkgray;
+}
+.p3{
+   font-family: "Georgia", serif;
+}
+.p4{
+    font-family: ubuntu;
+}
+.p5{
+    font-family: Oswald;
+}
+.p6{
+    text-decoration: underline;
+}
+.p7{
+    text-shadow: 2px -2px darkslategray;
+}
